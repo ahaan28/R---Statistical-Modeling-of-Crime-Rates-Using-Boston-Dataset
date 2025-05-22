@@ -1,0 +1,2 @@
+This coursework utilizes the Boston dataset to predict per capita crime rates through multiple regression and k-NN models, eliminating correlated predictors. Backward elimination refines the regression model, identifying key predictors (indus, dis, tax, medv). For classification, crime rates are categorized into "low," "medium," and "high," then simplified to "normal" and "high" for logistic regression. Model performance is assessed using MSE, ROC AUC, accuracy, sensitivity, and specificity, with k-NN (k=3) showing superior accuracy.
+
